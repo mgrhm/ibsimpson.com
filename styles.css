@@ -636,6 +636,7 @@ footer {
     float:  left;
     border: 12px solid var(--Orange-B-Simpson);
     margin-right: 32pt;
+    border-radius: 30px;
 }
     @media (prefers-color-scheme: dark) {
         .landing img {
