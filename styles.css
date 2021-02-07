@@ -1,29 +1,14 @@
 /*
- *      ,gggg,   ,ggg,        gg          ,ggg,       ,gggg, ,ggg,        gg
- *    ,88"""Y8b,dP""Y8b       88         dP""8I      d8" "8I """Y8b       dP
- *   d8"     `Y8    `88       88        dP   88      88  ,dP    `88      d8'
- *  d8'   8b  d8     88       88       dP    88   8888888P"      88    ,dP'
- * ,8I    "Y88P'     88aaaaaaa88      ,8'    88      88          88aaad8"
- * I8'               88"""""""88      d88888888      88          88""""Yb,
- * d8                88       88     ,8"     88     _88          88     "8b
- * Y8,               88       88    ,8P      Y8     88P          88      `8i
- * `Yba,,_____,      88       Y8,,_,dP       `8b,,_,d88b,,_      88       Yb,
- *   `"Y8888888      88       `Y8Y8P"         `Y8Y8P"  "Y88888   88        Y8
+ *  ______   ______  ______  ______  __      ______  ______  __  __  ______
+ * /\  ___\ /\  __ \/\__  _\/\  __ \/\ \    /\  __ \/\  ___\/\ \/\ \/\  ___\
+ * \ \ \___ \ \  __ \/_/\ \/\ \  __ \ \ \___\ \ \/\ \ \ \__ \ \ \_\ \ \  __\
+ *  \ \_____\\ \_\ \_\ \ \_\ \ \_\ \_\ \_____\ \_____\ \_____\ \_____\ \_____\
+ *   \/_____/ \/_/\/_/  \/_/  \/_/\/_/\/_____/\/_____/\/_____/\/_____/\/_____/
  *
- *  ,ggggggggggg,      _,ggggg,_           ,ggg, ,ggggggggg,  ,gggggggggg.
- * dP"""88""""""Y8,  ,d8P"d8P"Y8b,        dP""8I ""88""""""Y8,""88""""""Y8b,
- * Yb,  88      `8b ,d8'  Y8   "8b,dP    dP   88   88      `8b  88       `8b,
- *  `"  88      ,8P d8'   `Ybaaad88P'   dP    88   88      ,8P  88        `8b
- *      88aaaad8P"  8P      `""""Y8    ,8'    88   88aaaad8P"   88         Y8
- *      88""""Y8ba  8b           d8    d88888888   88""""Yb,    88         d8
- *      88      `8b Y8,         ,8P   ,8"     88   88     "8b   88        ,8P
- *      88      ,8P `Y8,       ,8P'  ,8P      Y8   88      `8i  88       ,8P'
- *      88_____,d8'  `Y8b,__,,d8Pb,_,dP       `8b, 88       Yb, 88______,dP'
- *     88888888P"      `"Y888P"' "Y8P"         `Y888'        Y8888888888P"
- *
- *             A website theme built for and with Iain B. Simpson:
- *                  designed to be fast, simple, and beautiful.
+ *         A simple, centralised landing page for Iain B. Simpson.
+ *                   A catalogue of his online presence.
  */
+
 
 /*
  *     ██████╗ ██████╗ ██╗      ██████╗ ██╗   ██╗██████╗ ███████╗
@@ -33,7 +18,7 @@
  *    ╚██████╗╚██████╔╝███████╗╚██████╔╝╚██████╔╝██║  ██║███████║
  *     ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝
  *
- *       Blackboard uses an extensive and varied repertoire of
+ *        Catalogue uses an extensive and varied repertoire of
  *       colours, all of which are consolidated and named here.
  */
 
