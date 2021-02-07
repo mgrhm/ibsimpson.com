@@ -139,8 +139,9 @@ a {
  */
 
 header {
-    font-family: "Poppins",
-                 "Century Gothic",
+    font-family: "IBM Plex Sans",
+                 "Helvetica",
+                 "Arial",
                   sans-serif;
     font-size:    18pt;
 /*  When using Sitelen Pona Pona, ligatures need to be disabled or the
@@ -305,7 +306,7 @@ header {
  */
 
 main {
-    font-family: "Poppins",
+    font-family: "IBM Plex Sans",
                   sans-serif;
     font-weight:  400;
     font-size:     14pt;
@@ -319,8 +320,9 @@ main {
 
 h2 {
     font-family: "sitelen-pona-pona",
-                 "Poppins",
-                 "Century Gothic",
+                 "IBM Plex Sans",
+                 "Helvetica",
+                 "Arial",
                   sans-serif;
     font-size:    24pt;
     font-weight:  bold;
@@ -330,8 +332,9 @@ h2 {
 
 p.post-tags {
     font-family: "sitelen-pona-pona",
-                 "Poppins",
-                 "Century Gothic",
+                 "IBM Plex Sans",
+                 "Helvetica",
+                 "Arial",
                   sans-serif;
     font-size:    16pt;
     font-variant-ligatures: none;
@@ -339,8 +342,9 @@ p.post-tags {
 
 a.post-tags-link {
     font-family: "sitelen-pona-pona",
-                 "Poppins",
-                 "Century Gothic",
+                 "IBM Plex Sans",
+                 "Helvetica",
+                 "Arial",
                   sans-serif;
     font-feature-settings: "liga" 1;
     color: var(--Iain-Blue-Simpson);
@@ -349,8 +353,9 @@ a.post-tags-link {
     a.post-tags-link:hover {
         color: var(--Orange-B-Simpson);
         font-family: "sitelen-pona-pona",
-                     "Poppins",
-                     "Century Gothic",
+                     "IBM Plex Sans",
+                     "Helvetica",
+                     "Arial",
                       sans-serif;
         font-feature-settings: "liga" 1;
     }
@@ -513,8 +518,8 @@ pre {
  */
 
 footer {
-    font-family: "Poppins",
-                 "Century Gothic",
+    font-family: "IBM Plex Sans",
+                 "Helvetica",
                   sans-serif;
     font-size:    18pt;
     font-weight:  bold;
